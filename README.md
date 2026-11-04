@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Lab — Experiments 1–10
+# Data Structures and Algorithms Lab — Experiments 1–12
 
 C programs based on the first 10 experiments in the provided DSA Lab Manual.
 
@@ -13,7 +13,8 @@ C programs based on the first 10 experiments in the provided DSA Lab Manual.
 8. Circular queue using a linked list
 9. Binary search tree traversals (in-order, pre-order, post-order)
 10. Graph traversal using BFS and DFS
-
+11. Implementation of bubble,selection and heap sorts
+12. Implementation of hashing with collision resolution using linear probing
 ## Compile and run
 Use GCC from a terminal in this folder:
 
